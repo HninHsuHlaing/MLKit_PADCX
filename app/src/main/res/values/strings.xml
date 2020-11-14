@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MlKit_PADCX</string>
+    <string name="error_message_cannot_detect_face">Cannot detect face</string>
+    <string name="error_message_cannot_detect_text">Cannot detect text</string>
+</resources>
